@@ -1,0 +1,1 @@
+<view class="goods data-v-5566b618"><goodslist wx:if="{{a}}" class="data-v-5566b618" u-i="5566b618-0" bind:__l="__l" u-p="{{a}}"></goodslist><view class="show data-v-5566b618" hidden="{{!b}}"> ----- 上拉触底了 ----- </view></view>

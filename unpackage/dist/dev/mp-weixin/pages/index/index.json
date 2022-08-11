@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "nav": "./childs/nav",
+    "goodslist": "../../components/goods-list/goods-list"
+  }
+}

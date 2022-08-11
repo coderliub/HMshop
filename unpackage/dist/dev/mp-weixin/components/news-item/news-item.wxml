@@ -1,0 +1,1 @@
+<view class="newsitem"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="news_item" bindtap="{{item.e}}"><image src="/static/news.jpeg"></image><view class="right"><view class="tit">{{item.a}}</view><view class="info"><text>发表时间：{{item.b}}</text><text>浏览：{{item.c}}</text></view></view></view></view>
